@@ -1,0 +1,13 @@
+Date: 07_08_13_05_06_57
+Total sales: $0.85
+Name	Sold	Subtotal
+drink6	0	0.0	
+drink7	0	0.0	
+drink8	0	0.0	
+drink9	0	0.0	
+drink10	0	0.0	
+chips6	0	0.0	
+chips7	0	0.0	
+chips8	1	0.85	
+chips9	0	0.0	
+chips10	0	0.0	

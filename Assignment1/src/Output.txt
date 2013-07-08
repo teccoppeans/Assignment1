@@ -1,0 +1,302 @@
+vMachine1turned on.
+vMachine2turned on.
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+Item: chips1
+Entered Amount: 1.55
+Change: 1.05
+Enjoy!
+Not enought money for selection.
+Please input more money or push coin return.
+vMachine1 Inventory:
+Name: drink1 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink2 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink3 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink4 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink5 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips1 Cost: 0.5 Calories: 45 Quantity: 19
+Name: chips2 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips3 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips4 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips5 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+Not enought money for selection.
+Please input more money or push coin return.
+vMachine1 turned off.
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 20
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+Item: chips8
+Entered Amount: 1.15
+Change: 0.29999999999999993
+Enjoy!
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 19
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 Inventory:
+Name: drink6 Cost: 0.75 Calories: 30 Quantity: 20
+Name: drink7 Cost: 0.5 Calories: 25 Quantity: 20
+Name: drink8 Cost: 1.0 Calories: 30 Quantity: 20
+Name: drink9 Cost: 1.5 Calories: 60 Quantity: 20
+Name: drink10 Cost: 1.25 Calories: 35 Quantity: 20
+Name: chips6 Cost: 0.5 Calories: 45 Quantity: 20
+Name: chips7 Cost: 0.65 Calories: 40 Quantity: 20
+Name: chips8 Cost: 0.85 Calories: 80 Quantity: 19
+Name: chips9 Cost: 0.55 Calories: 60 Quantity: 20
+Name: chips10 Cost: 1.0 Calories: 90 Quantity: 20
+vMachine2 turned off.
